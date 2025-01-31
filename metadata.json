@@ -1,5 +1,6 @@
 {
   "name": "ApexWolf",
   "symbol": "APXW",
-  "uri": "https://raw.githubusercontent.com/lionelfr23/criptol/refs/heads/main/metadata.json"
+  "image": "https://raw.githubusercontent.com/lionelfr23/criptol/main/lobo%20alfa.png",
+  "description": "Token oficial de ApexWolf en Solana."
 }
